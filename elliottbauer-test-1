@@ -1,4 +1,5 @@
 class Contact:
+"""A class displaying a users' contact information."""
   def __init__(self, name, phone_num, birthday):
       self.name = name
       self.phone_num = phone_num
